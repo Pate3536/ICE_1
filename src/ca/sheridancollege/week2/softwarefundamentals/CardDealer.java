@@ -1,8 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+
+/**
+ * name: Prince Patel
+ * ID : 991653893
+ * 
+*/
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
@@ -17,5 +19,11 @@ public class CardDealer
         nineClubs.setSuit("diamonds");
         Card king = new Card("clubs",5);
         king.setSuit("spades");
+        Card king1 = new Card("diamonds",2);
+        king1.setSuit("diamonds");
+       Card king2 = new Card("hearts",3);
+       king2.setSuit("hearts");
+        
     }
+   
 }
