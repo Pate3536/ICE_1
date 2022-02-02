@@ -24,6 +24,11 @@ public class CardDealer
        Card king2 = new Card("hearts",3);
        king2.setSuit("hearts");
         
+        System.out.println("king1.getSuit");
+        System.out.println("king2.getSuit");
+        
     }
+    
+  
    
 }
